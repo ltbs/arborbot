@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name china_bluepill)(type Legacy)(uri /home/luke/kicad-libs/kicad-library-master/library/china_bluepill.lib)(options "")(descr ""))
+  (lib (name mega-seedy-rescue)(type Legacy)(uri ${KIPRJMOD}/mega-seedy-rescue.lib)(options "")(descr ""))
+)

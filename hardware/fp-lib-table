@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kicad-library-master)(type KiCad)(uri /home/luke/kicad-libs/kicad-library-master)(options "")(descr ""))
+  (lib (name chinabluepill)(type KiCad)(uri /home/luke/kicad-libs/kicad-library-master/chinabluepill.pretty)(options "")(descr ""))
+)
